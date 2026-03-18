@@ -1,18 +1,24 @@
 # OpenCV Learning Path
 
-Bu repo, OpenCV kütüphanesini sıfırdan öğrenirken tuttuğum notlarımı ve yazdığım kod örneklerini içeriyor.
+Bu repo, OpenCV kütüphanesini sıfırdan öğrenirken tuttuğum notlarımı ve kod örneklerimi içeriyor.
 
-Amacım sadece kod çalıştırmak değil, her fonksiyonun ne işe yaradığını anlamak ve ileride kendi projelerimde (özellikle görüntü işleme ve oyun geliştirme) kullanabilmek.
+Amacım sadece kod çalıştırmak değil, her fonksiyonun mantığını anlamak ve ileride kendi projelerimde kullanabilmek.
 
-### Şu Anda Bulunan Bölümler
-- **Basics** → Görüntü okuma, renk kanalları, boyutlandırma, döndürme, kesme, filtreleme gibi temel işlemler
+## Klasör Yapısı
+
+- `basics/` → OpenCV'nin temel işlemleri  
+- `intermediate/` → Orta seviye konular (ileride doldurulacak)  
+- `advanced/` → İleri seviye konular (ileride doldurulacak)
+
+## Basics Klasörü
+
+Bu klasör OpenCV'ye ilk adımlarımı attığım bölümdür.  
+Temel görüntü okuma, renk kanalları, boyutlandırma, filtreleme gibi konuları burada öğrendim.
 
 ### Kaynaklar
 - TutorialsPoint OpenCV Python Tutorial  
-- LinkedIn Learning - OpenCV Essentials Kursu  
-- Resmi OpenCV Dokümantasyonu  
+- LinkedIn Learning - OpenCV Essentials  
 - Kendi denemelerim ve notlarım
 
-Not: Bu repo tamamen öğrenme amaçlıdır. Kodların bir kısmı kaynaklardan esinlenerek yazılmış, ancak açıklamalar ve düzenlemeler kendi kelimelerimle yapılmıştır.
-
-Hedefim: OpenCV'yi sağlam bir şekilde öğrenip, gerçek zamanlı görüntü işleme ve bilgisayarlı görme projelerine geçmek.
+---
+**Not:** Bu repo tamamen öğrenme amaçlıdır. Kodların bir kısmı kaynaklardan esinlenerek yazılmış, açıklamalar ise kendi kelimelerimle hazırlanmıştır.
